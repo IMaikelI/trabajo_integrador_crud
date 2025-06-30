@@ -57,11 +57,6 @@ if (isset($_POST['update_id'])) {
     <meta charset="UTF-8">
     <title>Gestión de Clientes</title>
     <link rel="stylesheet" href="style.css">
-    <style>
-        .cliente { border: 1px solid #ccc; padding: 10px; margin: 5px; }
-        form { margin-bottom: 20px; }
-        label { display: block; margin-top: 10px; }
-    </style>
 </head>
 <body>
 
