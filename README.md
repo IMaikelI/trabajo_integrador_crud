@@ -1,1 +1,1 @@
-Og es el archivo original antes de que me de cuenta que no habia echo un session_start y que cada vez q elmine o edite algo se iba a acutualizar el formulario
+Og es el archivo original antes de que me de cuenta que no habia echo un session_start y que cada vez q elmine o edite algo se iba a acutualizar el formulario (le pedi a chatgpt que me hiciera la sesion para no tener que cambiar todo manualmente)
